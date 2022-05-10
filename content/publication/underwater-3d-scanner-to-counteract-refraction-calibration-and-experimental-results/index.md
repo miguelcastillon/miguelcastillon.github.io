@@ -25,9 +25,9 @@ abstract: "Underwater 3D laser scanners are an essential type of sensor used by
   is the first laser line scanner (LLS) that actively counteracts the refraction
   of the projected light in the context of underwater robotics."
 draft: false
-featured: false
+featured: true
 image:
-  filename: featured
+  filename: scanner.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-05-10T11:13:07.358Z
