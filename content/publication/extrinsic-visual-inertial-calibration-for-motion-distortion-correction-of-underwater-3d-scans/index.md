@@ -29,10 +29,8 @@ abstract: Underwater 3D laser scanners are an essential type of sensor used by
   also evaluated experimentally in laboratory conditions.
 draft: false
 featured: true
-tags:
-  - Underwater Robotics
-categories:
-  - Underwater 3D Sensing
+tags: []
+categories: []
 projects:
   - Underwater 3D Scanner
 image:
@@ -41,6 +39,4 @@ image:
   preview_only: false
 date: 2021-06-24T09:53:30.178Z
 ---
-Watch this video:
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OytUI9x3cWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
