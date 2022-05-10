@@ -34,8 +34,8 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: featured.png
+  focal_point: Center
   preview_only: false
 date: 2021-06-24T09:53:30.178Z
 ---
