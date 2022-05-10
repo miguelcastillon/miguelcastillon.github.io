@@ -19,7 +19,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/miguel-castillon/
   - display:
-      header: true
+      header: false
     icon_pack: ai
     icon: cv
     link: uploads/cv.pdf
