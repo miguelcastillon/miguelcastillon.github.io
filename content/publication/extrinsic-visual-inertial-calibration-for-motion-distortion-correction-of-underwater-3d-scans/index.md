@@ -32,7 +32,7 @@ featured: true
 tags: []
 categories: []
 projects:
-  - Underwater 3D Scanner
+  - underwater-3d-scanner
 image:
   filename: featured.png
   focal_point: Center
