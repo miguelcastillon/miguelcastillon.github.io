@@ -20,7 +20,7 @@ social:
     link: https://www.linkedin.com/in/miguel-castillon/
   - display:
       header: true
-    icon_pack: fas
+    icon_pack: ai
     icon: cv
     link: uploads/demo_resume.pdf
 organizations:
