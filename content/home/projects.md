@@ -17,6 +17,6 @@ content:
       tag: Demo
 design:
   columns: "2"
-  view: 3
+  view: 4
   flip_alt_rows: false
 ---
