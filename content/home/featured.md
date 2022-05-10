@@ -4,7 +4,7 @@ widget_id: featured
 headless: true
 weight: 20
 title: Featured Publications
-subtitle: ""
+subtitle: "Click [here](/publication/) for the full list of publications."
 content:
   page_type: publication
   count: 0
