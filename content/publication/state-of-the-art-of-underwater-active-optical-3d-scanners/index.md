@@ -8,6 +8,8 @@ authors:
   - Josep Forest
   - Pere Ridao
 doi: 10.3390/s19235161
+publication: "*Sensors*"
+publication_short: ""
 abstract: Underwater inspection, maintenance and repair (IMR) operations are
   being increasingly robotized in order to reduce safety issues and costs. These
   robotic systems rely on vision sensors to perform fundamental tasks, such as
