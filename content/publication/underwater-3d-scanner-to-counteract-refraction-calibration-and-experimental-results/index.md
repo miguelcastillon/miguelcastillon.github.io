@@ -3,9 +3,9 @@ title: "Underwater 3D Scanner to Counteract Refraction: Calibration and
   Experimental Results"
 publication_types:
   - "2"
-authors:
-  - "*IEEE/ASME Transactions on Mechatronics*"
+authors: []
 doi: 10.1109/TMECH.2022.3170504
+publication: "*IEEE/ASME Transactions on Mechatronics*"
 abstract: "Underwater 3-D laser scanners are an essential type of sensor used by
   unmanned underwater vehicles (UUVs) for operations such as inspection,
   navigation, and object recognition and manipulation. This article presents a
