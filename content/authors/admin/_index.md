@@ -30,13 +30,13 @@ education:
   courses:
     - course: PhD in Robotics
       institution: University of Girona (Spain)
-      year: ""
+      year: 2022
     - course: MSc in Robotics
       institution: KU Leuven (Belgium)
-      year: ""
+      year: 2018
     - course: BSc in Industrial Engineering
       institution: University of Zaragoza (Spain)
-      year: ""
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
