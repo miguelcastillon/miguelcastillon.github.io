@@ -17,6 +17,6 @@ content:
       tag: Demo
 design:
   columns: "2"
-  view: Masonry
+  view: 5
   flip_alt_rows: false
 ---
