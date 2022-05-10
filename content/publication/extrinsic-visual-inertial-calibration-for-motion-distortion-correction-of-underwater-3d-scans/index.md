@@ -1,6 +1,6 @@
 ---
-title: Extrinsic visual-inertial calibration for motion distortion correction of
-  underwater 3D scans
+title: Extrinsic Visual-Inertial Calibration for Motion Distortion Correction of
+  Underwater 3D Scans
 publication_types:
   - "2"
 authors:
