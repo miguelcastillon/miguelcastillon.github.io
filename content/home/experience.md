@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: PhD Researcher
+    company: Girona Underwater Vision and Robotics Lab
+    company_url: 'https://cirs.udg.edu'
+    company_logo: ''
+    location: Girona (Spain)
+    date_start: '2019-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Enabling underwater robots to use range data from laser-based sensors for mapping and manipulation tasks. To this end we built an underwater laser scanner, which allowed me to face challenges ranging from sensor calibration to integration in autonomous platforms.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Visiting Researcher
+    company: Autonomous Systems Lab (ASL), ETH Zurich
+    company_url: 'https://asl.ethz.ch/'
+    company_logo: 
+    location: Zurich (Switzerland)
+    date_start: '2021-09-01'
+    date_end: '2022-04-01'
+    description: Presented a new non-rigid point cloud registration algorithm that corrects motion distortion in dynamic scans, improving accuracy of localization and mapping tasks.
 
 design:
   columns: '2'
