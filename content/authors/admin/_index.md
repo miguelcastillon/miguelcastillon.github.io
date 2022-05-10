@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - SLAM
+  - Sensor Perception
+  - Optimization
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,18 +23,18 @@ social:
     link: https://www.linkedin.com/in/miguel-castillon/
 organizations:
   - name: Girona Underwater Vision and Robotics Lab
-    url: https://www.cirs.udg.edu/
+    url: https://cirs.udg.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Robotics
+      institution: University of Girona (Spain)
+      year: ""
+    - course: MSc in Robotics
+      institution: KU Leuven (Belgium)
+      year: ""
+    - course: BSc in Industrial Engineering
+      institution: University of Zaragoza (Spain)
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
