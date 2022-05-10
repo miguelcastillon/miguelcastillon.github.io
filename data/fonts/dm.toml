@@ -2,7 +2,7 @@
 name = "DM"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:DM+Mono@300;500&family=DM+Sans:wght@300;500"
+google_fonts = "family=DM+Sans:wght@300;500&family=DM+Mono:wght@300;500"
 
 # Font families
 heading_font = "DM Sans"
