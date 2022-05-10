@@ -1,7 +1,7 @@
 ---
 title: Miguel Castillón
 role: PhD candidate
-avatar_filename: foto-2017_09_cropped.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -13,7 +13,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: graduation-cap
-    icon_pack: ai
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=FvNmNmQAAAAJ
   - icon: github
     icon_pack: fab
