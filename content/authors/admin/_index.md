@@ -41,7 +41,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I’m a PhD student at the \[Underwater Robotics Lab](https://cirs.udg.edu) of University of Girona under the supervision of Prof. Pere Ridao. 
+I’m a PhD student at the Underwater Robotics Lab of University of Girona under the supervision of Prof. Pere Ridao. 
 
 My main research interests include exploiting sensor perception for autonomous navigation and manipulation in challenging scenarios.
 
