@@ -2,8 +2,8 @@
 title: Miguel Castillón
 role: PhD candidate
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My main research interests include exploiting sensor perception for
+  autonomous navigation and manipulation in challenging scenarios.
 interests:
   - SLAM
   - Sensor Perception
@@ -12,15 +12,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=FvNmNmQAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/miguelcastillon
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/miguel-castillon/
+  - display:
+      header: true
+    icon_pack: fas
+    icon: cv
+    link: uploads/demo_resume.pdf
 organizations:
   - name: Girona Underwater Vision and Robotics Lab
     url: https://cirs.udg.edu/
