@@ -1,8 +1,9 @@
 ---
-title: Underwater 3D scanner for autonomous navigation, mapping and manipulation
+title: Underwater 3D scanner
 date: 2022-05-10T14:30:03.242Z
-summary: lrgoerigjoeirgeriog oihrg oi3h goihlrgoerigjoeirgeriog oihrg oi3h
-  goihlrgoerigjoeirgeriog oihrg oi3h goihlrgoerigjoeirgeriog oihrg oi3h goih
+summary: One of my main contributions during the thesis has been the development
+  of an underwater 3D laser scanner designed for autonomous mapping and
+  manipulation.
 draft: false
 featured: false
 authors: []
