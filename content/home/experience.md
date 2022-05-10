@@ -51,7 +51,7 @@ experience:
         
   - title: Research intern
     company: Octinion
-    company_url: 'https://octinion.com/'
+    company_url: 'http://octinion.com/'
     company_logo: 
     location: Leuven (Belgium)
     date_start: '2017-06-01'
