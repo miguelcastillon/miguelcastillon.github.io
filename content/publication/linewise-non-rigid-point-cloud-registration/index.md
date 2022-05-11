@@ -23,8 +23,9 @@ abstract: Robots are usually equipped with 3D range sensors such as laser line
   robot motion with respect to the scanning time to formulate our method
   reducing the computational complexity while improving accuracy. We use
   synthetic and real data to benchmark our method against a state-of-the-art
-  non-rigid registration method. Finally, the source code for the algorithm is
-  made publicly available [here](https://github.com/miguelcastillon/lnrr/).
+  non-rigid registration method. Finally, the [source
+  code](https://github.com/miguelcastillon/lnrr/) for the algorithm is made
+  publicly available.
 draft: false
 featured: true
 projects:
