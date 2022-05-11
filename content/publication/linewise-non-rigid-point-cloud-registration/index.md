@@ -25,7 +25,7 @@ abstract: Robots are usually equipped with 3D range sensors such as laser line
   synthetic and real data to benchmark our method against a state-of-the-art
   non-rigid registration method. Finally, the source code for the algorithm is
   made publicly available [here](https://github.com/miguelcastillon).
-draft: true
+draft: false
 featured: true
 projects:
   - non-rigid-point-cloud-registration
