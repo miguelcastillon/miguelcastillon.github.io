@@ -7,7 +7,7 @@ authors:
   - Pere Ridao
   - Roland Siegwart
   - César Cadena
-publication: Submitted to IEEE Robotics and Automation Letters
+publication: Submitted to *IEEE Robotics and Automation Letters*
 abstract: Robots are usually equipped with 3D range sensors such as laser line
   scanners (LLSs) or lidars. These sensors acquire a full 3D scan in a line by
   line manner while the robot is in motion. All the lines can be referred to a
@@ -24,7 +24,7 @@ abstract: Robots are usually equipped with 3D range sensors such as laser line
   reducing the computational complexity while improving accuracy. We use
   synthetic and real data to benchmark our method against a state-of-the-art
   non-rigid registration method. Finally, the source code for the algorithm is
-  made publicly available [here](https://github.com/miguelcastillon).
+  made publicly available [here](https://github.com/miguelcastillon/lnrr/).
 draft: false
 featured: true
 projects:
