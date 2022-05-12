@@ -2,7 +2,7 @@
 title: Non-rigid point cloud registration
 date: 2022-05-10T22:04:16.200Z
 summary: "Mounting our scanner "
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
