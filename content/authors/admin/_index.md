@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: My main research interests include exploiting sensor perception for
   autonomous navigation and manipulation in challenging scenarios.
 interests:
-  - SLAM
   - Sensor Perception
+  - SLAM
   - Optimization
 social:
   - icon: envelope
