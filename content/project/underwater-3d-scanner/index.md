@@ -12,7 +12,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## Scanner
+# Motivation
+
+# Prototype
 [this paper](/publication/underwater-3d-scanner-to-counteract-refraction-calibration-and-experimental-results/)
 
 [model](/publication/underwater-3d-scanner-model-using-a-biaxial-mems-mirror/)
+
+<embed src="/content/project/underwater-3d-scanner/media/scanning_scheme.pdf type="application/pdf>
