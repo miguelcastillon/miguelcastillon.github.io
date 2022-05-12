@@ -1,5 +1,4 @@
 ---
-title: Miguel Castillón
 role: PhD candidate
 avatar_filename: avatar.jpg
 bio: My main research interests include exploiting sensor perception for
@@ -11,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:miguel.castillon@udg.edu
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=FvNmNmQAAAAJ
@@ -37,9 +36,10 @@ education:
     - course: BSc in Industrial Engineering
       institution: University of Zaragoza (Spain)
       year: 2015
-email: ""
 superuser: true
 highlight_name: true
+title: Miguel Castillón
+email: ""
 ---
 I’m a PhD student at the Underwater Robotics Lab of University of Girona. 
 My main research interests include exploiting sensor perception for autonomous navigation and manipulation in challenging scenarios.
