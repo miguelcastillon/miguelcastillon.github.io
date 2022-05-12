@@ -66,6 +66,9 @@ After much thought, we came up with [this model](/publication/underwater-3d-scan
 This is a ray-tracing model able to generate a pattern of optimally-curved points based on the values of different parameters, such as the refraction index of water.
 In order to be able to steer the laser both vertically and horizontally, we used a 2-axis mirror.
 The practical realization of the model was published in [this paper](/publication/underwater-3d-scanner-to-counteract-refraction-calibration-and-experimental-results/).
+
+{{< figure src="scanner_scheme.jpg" caption="Prototype of our underwater 3D scanner." numbered="false" width="500">}}
+
 The main conclusions of this work were:
 - Our prototype can achieve millimeter accuracy, in the order of other state-of-the-art underwater laser scanners.
 - Our approach allows for higher flexibility in the scanning pattern, potentially opening future lines of research.
@@ -73,9 +76,20 @@ The main conclusions of this work were:
 - It can currently match state-of-the-art scanning speed (between 50 and 100 scanned lines per second). 
 However, this speed could be noticeably increased by implementing a more efficient controller that dealt better with the highly-resonant dynamic behaviour of the mirror.
 
-## Inspection
+## Integration with an AUV
 
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OytUI9x3cWw?start=124" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Sea experiments
+
+{{< figure src="sea_experiment.jpg" caption="Sea experiment with the laser scanner mounted on AUV Girona1000 at the harbour of St. Feliu de Guíxols (Spain)." numbered="false" width="400">}}
+
+video rocas
+
+
+## Acknowledgments
+
+Many big thanks to Lluís Magí for the integration of the electronic components of the prototype, to Roger Pi for the great common work for AUV integration and calibration, and to Pere Ridao, Josep Forest and Albert Palomer for their guidance.
+Special thanks to Lluís, Roger and Pere for their huge help in the logistics of the sea scanning missions.
