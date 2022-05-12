@@ -16,7 +16,7 @@ image:
     task at the water tank in the [CIRS lab](https://cirs.udg.edu). The
     inspected structure is a mock-up of an underwater industrial site.
 ---
-## Underwater imaging
+## Context: underwater imaging
 
 Visual perception in underwater scenarios is **hard**.
 In order to understand how and why, let's have a look at this 360º video recorded by some of my colleagues:
@@ -26,24 +26,42 @@ In order to understand how and why, let's have a look at this 360º video record
 </div>
 
 Even though the visibility conditions on this video were *almost optimal*, we can already identify two main challenges:
-- First, the floating particles in the water blur the image and make it lose the sharpness of its features.
-- Second, the high attenuation rate of water means that light loses most of its power at distances in the order of meters or tens of meters, depending on its wavelength:
+1. The *floating particles* in the water blur the image and make it lose the sharpness of its texture, reducing the number of distinctive features.
+1. The *high attenuation rate* of water means that light loses most of its power at distances in the order of meters or tens of meters, depending on its wavelength:
 {{< figure src="water_light_absorption.png" caption="Electromagnetic absorption by water ([credits](https://en.wikipedia.org/wiki/Electromagnetic_absorption_by_water#/media/File:Absorption_spectrum_of_liquid_water.png))." numbered="false" width="500">}}
 
-A robust solution against these factors is using sonar.
+A robust solution against these factors is using [sonar](https://en.wikipedia.org/wiki/Sonar).
 Sonars are range sensors that use ultrasonic waves to acquire geometrical information about their surroundings.
-Ultrasonic waves are mechanical waves and can therefore propagate further and are not affected by water turbidity and varying lighting conditions.
+Ultrasonic waves are mechanical waves and can therefore propagate further and are not affected by [water turbidity](https://en.wikipedia.org/wiki/Turbidity) and varying lighting conditions.
 However, they typically produce much noisier results and their resolution is in the order of tens of centimeters.
 
 {{< figure src="sonar_bike.png" caption="Bike measured using a sonar ([credits](http://www.jwfishers.com/multimedia.html))." numbered="false" width="500">}}
 
-- due to [refraction](https://en.wikipedia.org/wiki/Refraction).
+## Underwater 3D laser scanners
+
+The low resolution and accuracy of sonars make them unsuitable for many tasks performed by autonomous underwater vehicles (AUVs), such as manipulation and high-resolution inspection.
+As an alternative, people use 3D laser scanners (or [lidars](https://en.wikipedia.org/wiki/Lidar)), which can achieve a typical accuracy in the order of millimeters.
+If we now revisit the two challenging factors mentioned above, we see that laser scanners:
+1. can provide dense point clouds even in featureless environments, since they actively project light onto the scene, and
+1. especially for manipulation tasks, a maximum scanning range of a few meters is not a major problem, since it is longer than the maximum reach of a typical robotic arm.
+
+3D laser scanners typically steer a laser plane *using a mirror* across a field of view (FoV) of around 40ºx40º.
+This characteristic makes them particularly useful for manipulation tasks, since they can view a relatively broad FoV without the need of moving the robot.
+However, the projected laser line is deformed into a curve at the edges of the FoV due to [refraction](https://en.wikipedia.org/wiki/Refraction):
+{{< figure src="palomer_laser_curve.png" caption=" ([credits](https://link.springer.com/chapter/10.1007/978-3-319-55372-6_4))." numbered="false" width="500">}}
 
 
-## Prototype
+## Our prototype
 
 [this paper](/publication/underwater-3d-scanner-to-counteract-refraction-calibration-and-experimental-results/)
 
 [model](/publication/underwater-3d-scanner-model-using-a-biaxial-mems-mirror/)
 
 {{< figure src="scanning_scheme.png" caption="Scheme of our underwater 3D scanner." numbered="false" width="500">}}
+
+## Inspection
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OytUI9x3cWw?start=124" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
