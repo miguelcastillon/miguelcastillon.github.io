@@ -13,6 +13,6 @@ image:
   preview_only: false
 ---
 ## Scanner
-[this paper](https://doi.org/10.1109/TMECH.2022.3170504)
+[this paper](/underwater-3d-scanner-to-counteract-refraction-calibration-and-experimental-results/)
 
-[model](https://doi.org/10.1109/ACCESS.2021.3069189)
+[model](/underwater-3d-scanner-model-using-a-biaxial-mems-mirror/)
