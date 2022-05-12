@@ -67,7 +67,7 @@ This is a ray-tracing model able to generate a pattern of optimally-curved point
 In order to be able to steer the laser both vertically and horizontally, we used a 2-axis mirror.
 The practical realization of the model was published in [this paper](/publication/underwater-3d-scanner-to-counteract-refraction-calibration-and-experimental-results/).
 
-{{< figure src="scanner_scheme.jpg" caption="Prototype of our underwater 3D scanner." numbered="false" width="500">}}
+{{< figure src="scanner.jpg" caption="Prototype of our underwater 3D scanner." numbered="false" width="500">}}
 
 The main conclusions of this work were:
 - Our prototype can achieve millimeter accuracy, in the order of other state-of-the-art underwater laser scanners.
