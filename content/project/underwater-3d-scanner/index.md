@@ -19,4 +19,4 @@ image:
 
 [model](/publication/underwater-3d-scanner-model-using-a-biaxial-mems-mirror/)
 
-![scanning_scheme](/content/project/underwater-3d-scanner/media/scanning_scheme.png)
+![scanning_scheme](scanning_scheme.png)
