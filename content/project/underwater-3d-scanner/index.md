@@ -76,18 +76,25 @@ The main conclusions of this work were:
 - It can currently match state-of-the-art scanning speed (between 50 and 100 scanned lines per second). 
 However, this speed could be noticeably increased by implementing a more efficient controller that dealt better with the highly-resonant dynamic behaviour of the mirror.
 
-## Integration with an AUV
+### Integration into the AUV
+
+Together with Roger Pi, we integrated the scanner into the Girona1000 and calibrated its extrinsic parameters with respect to the robot, enabling dynamic scanning:
 
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OytUI9x3cWw?start=124" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Sea experiments
+### Sea experiments
+
+Once the scanner was properly integrated into the AUV, we made a mapping inspection of the rocky seafloor:
 
 {{< figure src="sea_experiment.jpg" caption="Sea experiment with the laser scanner mounted on AUV Girona1000 at the harbour of St. Feliu de Guíxols (Spain)." numbered="false" width="400">}}
 
-video rocas
+An example of the acquired 3D point clouds can be watched in this video:
 
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zc_appJUckI?start=50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Acknowledgments
 
