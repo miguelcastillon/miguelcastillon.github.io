@@ -90,6 +90,10 @@ Once the scanner was properly integrated into the AUV, we made a mapping inspect
 
 {{< figure src="sea_experiment.jpg" caption="Sea experiment with the laser scanner mounted on AUV Girona1000 at the harbour of St. Feliu de Guíxols (Spain)." numbered="false" width="400">}}
 
+<div align="center">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1780.1655212533174!2d3.033497705752718!3d41.77796118748749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x884f239f39f0734b!2zNDHCsDQ2JzQwLjciTiAzwrAwMicwMi45IkU!5e1!3m2!1ses!2ses!4v1652434542865!5m2!1ses!2ses" width="400" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 An example of the acquired 3D point clouds can be watched in this video:
 
 <div align="center">
