@@ -102,5 +102,5 @@ An example of the acquired 3D point clouds can be watched in this video:
 
 ## Acknowledgments
 
-Many big thanks to Lluís Magí for the integration of the electronic components of the prototype, to Roger Pi for the great common work for AUV integration and calibration, and to Pere Ridao, Josep Forest and Albert Palomer for their guidance.
+Many big thanks to Lluís Magí for the integration of the electronic components of the scanner, to Roger Pi for the great common work for AUV integration and calibration, and to Pere Ridao, Josep Forest and Albert Palomer for their guidance.
 Special thanks to Lluís, Roger and Pere for their huge help in the logistics of the sea scanning missions.
