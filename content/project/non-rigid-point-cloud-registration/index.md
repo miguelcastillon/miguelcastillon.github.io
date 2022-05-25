@@ -17,7 +17,9 @@ image:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZsPw2voKi10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-{{< figure src="projects/non-rigid-point-cloud-registration/112_model.png" caption="." numbered="false" width="500">}}
+{{< figure src="projects/non-rigid-point-cloud-registration/112_model.png" caption="." numbered="false" width="30%">}} {{< figure src="projects/non-rigid-point-cloud-registration/114_model.png" caption="." numbered="false" width="30%">}} {{< figure src="projects/non-rigid-point-cloud-registration/115_model.png" caption="." numbered="false" width="30%">}}
+
+
 
 <p float="left" align="center">
   <img src="projects/non-rigid-point-cloud-registration/112_model.png" width="30%" caption="." numbered="false" />
