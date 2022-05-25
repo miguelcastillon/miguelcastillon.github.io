@@ -18,3 +18,10 @@ image:
 </div>
 
 {{< figure src="projects/non-rigid-point-cloud-registration/112_model.png" caption="." numbered="false" width="500">}}
+
+<p float="left" align="center">
+  <img src="projects/non-rigid-point-cloud-registration/112_model.png" width="30%" caption="." numbered="false" />
+  <img src="projects/non-rigid-point-cloud-registration/114_model.png" width="30%" caption="." numbered="false" />
+  <img src="projects/non-rigid-point-cloud-registration/115_model.png" width="30%" caption="." numbered="false" />
+</p>
+
