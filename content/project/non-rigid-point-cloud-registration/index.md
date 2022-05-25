@@ -6,7 +6,7 @@ summary: >
 
 
   {{< figure src="projects/non-rigid-point-cloud-registration/112_model.png" caption="." numbered="false" width="500">}}
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
