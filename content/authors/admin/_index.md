@@ -38,4 +38,4 @@ highlight_name: true
 ---
 I’m a PhD student at the Underwater Robotics Lab of University of Girona. 
 My main research interests include exploiting sensor perception for autonomous navigation and manipulation in challenging scenarios.
-I’m currently investigating novel non-rigid data association methods to recover true object shape out of distorted 3D scans.
+I’m currently working on graph SLAM and investigating novel non-rigid data association methods to recover true object shape out of distorted 3D scans.
