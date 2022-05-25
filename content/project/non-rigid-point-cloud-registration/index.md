@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-In September 2021 I moved to Zurich for a 6-month research stay at the [Autonomous Systems Lab](https://asl.ethz.ch/) (ETH) under the supervision of César Cadena.
+In September 2021 I moved to Zurich for a 6-month research stay at the [Autonomous Systems Lab](https://asl.ethz.ch/) (ETH) under the supervision of [César Cadena](http://n.ethz.ch/~cesarc/).
 My main goal during this time was to investigate how to process point cloud data from our [underwater laser scanner](/project/underwater-3d-scanner/) so that they can be later used in downstream applications.
 
 ## Motion distortion
