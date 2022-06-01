@@ -7,6 +7,7 @@ authors:
   - Pere Ridao
   - Roland Siegwart
   - César Cadena
+doi: 10.1109/LRA.2022.3180038
 publication: "*IEEE Robotics and Automation Letters*"
 abstract: Robots are usually equipped with 3D range sensors such as laser line
   scanners (LLSs) or lidars. These sensors acquire a full 3D scan in a line by
@@ -34,5 +35,9 @@ image:
   filename: featured.png
   focal_point: Bottom
   preview_only: false
+summary: During my research stay at [ASL Zurich](https://asl.ethz.ch/) I
+  developed a non-rigid point cloud registration method. You can check out the
+  source code in [this public
+  repository](https://github.com/miguelcastillon/lnrr/).
 date: 2022-05-11T15:43:05.875Z
 ---
