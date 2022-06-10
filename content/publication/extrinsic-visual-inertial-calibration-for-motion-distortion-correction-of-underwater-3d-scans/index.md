@@ -28,7 +28,7 @@ abstract: Underwater 3D laser scanners are an essential type of sensor used by
   quantify how miscalibration affects motion-related distortion. The method is
   also evaluated experimentally in laboratory conditions.
 draft: false
-featured: true
+featured: false
 tags: []
 categories: []
 projects:
