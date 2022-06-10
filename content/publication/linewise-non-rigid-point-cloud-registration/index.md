@@ -27,7 +27,7 @@ abstract: Robots are usually equipped with 3D range sensors such as laser line
   non-rigid registration method. Finally, the [source
   code](https://github.com/miguelcastillon/lnrr/) for the algorithm is made
   publicly available.
-draft: true
+draft: false
 featured: true
 projects:
   - non-rigid-point-cloud-registration
