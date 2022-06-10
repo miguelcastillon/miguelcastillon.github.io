@@ -32,5 +32,8 @@ image:
   filename: scanner.jpg
   focal_point: Smart
   preview_only: false
+summary: |-
+  In this paper we present the underwater 3D laser scanner that we developed.
+  We discuss a simplified calibration method and characterize its performance.
 date: 2022-05-10T11:13:07.358Z
 ---
