@@ -8,7 +8,8 @@ authors:
   - Roland Siegwart
   - César Cadena
 doi: 10.1109/LRA.2022.3180038
-publication: "*IEEE Robotics and Automation Letters*"
+publication: "*IEEE Robotics and Automation Letters*. Selected by the *IROS'22*
+  Committee for presentation at the Conference."
 abstract: Robots are usually equipped with 3D range sensors such as laser line
   scanners (LLSs) or lidars. These sensors acquire a full 3D scan in a line by
   line manner while the robot is in motion. All the lines can be referred to a
