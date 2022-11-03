@@ -35,10 +35,8 @@ However, errors from noisy inertial measurements and inaccuracies in the extrins
 
 [Coherent Point Drift](https://en.wikipedia.org/wiki/Point-set_registration#Coherent_point_drift)
 
-
 We summarized our contribution in this video:
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZsPw2voKi10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tp0ob9yHagQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
