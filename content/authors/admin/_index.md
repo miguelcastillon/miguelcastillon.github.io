@@ -19,7 +19,7 @@ organizations:
     url: https://keybotic.com/
 education:
   courses:
-    - course: PhD in Robotics
+    - course: PhD in Autonomous Robotics
       institution: University of Girona (Spain)
       year: 2023
     - course: MSc in Robotics
@@ -33,6 +33,5 @@ highlight_name: true
 title: Miguel Castillón
 email: ""
 ---
-I’m a PhD student at the Underwater Robotics Lab of University of Girona. 
-My main research interests include exploiting sensor perception for autonomous navigation and manipulation in challenging scenarios.
-I’m currently working on graph SLAM and investigating novel non-rigid data association methods to recover true object shape out of distorted 3D scans.
+I’m the **autonomous navigation lead** at Keybotic, a start-up developing **four-legged robots** for industrial inspections. Before this, I did my **PhD on 3D perception and navigation** of autonomous underwater robots: theory, software development and field tests. My main research interests intertwine
+**numerical optimization and sensor perception** for autonomous navigation in challenging scenarios.
