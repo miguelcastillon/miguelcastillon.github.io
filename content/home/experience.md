@@ -29,7 +29,7 @@ experience:
     location: Barcelona (Spain)
     date_start: '2023-02-01'
     date_end: ''
-    description: Responsible for the mapping and the autonomous navigation of our four-legged robot Keyper during to enable autonomous inspections of real industrial plants.
+    description: Responsible for the mapping and the autonomous navigation of our four-legged robot Keyper to enable autonomous inspections of real industrial plants.
 
   - title: PhD Researcher
     company: Girona Underwater Vision and Robotics Lab
