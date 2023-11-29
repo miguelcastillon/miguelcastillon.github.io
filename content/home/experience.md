@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Autonomous Navigation Lead
+    company: Keybotic
+    company_url: 'https://keybotic.com'
+    company_logo: ''
+    location: Barcelona (Spain)
+    date_start: '2023-02-01'
+    date_end: ''
+    description: Responsible for the mapping and the autonomous navigation of our four-legged robot Keyper during to enable autonomous inspections of real industrial plants.
+
   - title: PhD Researcher
     company: Girona Underwater Vision and Robotics Lab
     company_url: 'https://cirs.udg.edu'
     company_logo: ''
     location: Girona (Spain)
     date_start: '2019-01-01'
-    date_end: ''
+    date_end: '2023-02-01'
     description: Enabling underwater robots to use range data from laser-based sensors for mapping and manipulation tasks. To this end we built an underwater laser scanner, which allowed me to face challenges ranging from sensor calibration to integration in autonomous platforms.
         
   - title: Visiting Researcher
