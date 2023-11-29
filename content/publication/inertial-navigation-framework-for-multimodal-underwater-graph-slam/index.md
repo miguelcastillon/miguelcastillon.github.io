@@ -3,10 +3,10 @@ title: Inertial navigation framework for multimodal underwater Graph SLAM
 publication_types:
   - "1"
 authors:
-  - Jeygopi Panisilvam
+  - Pau Vial
   - admin
-  - Nicholas Lawrance
-  - Roland Siegwart
+  - Narcís Palomeras
+  - Marc Carreras
 doi: 10.1109/OCEANSLimerick52467.2023.10244303
 publication: "*OCEANS 2023, Limerick*"
 abstract: Robot localization is a fundamental task in achieving true autonomy
